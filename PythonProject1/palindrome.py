@@ -25,5 +25,5 @@ while True:
                C,S = next(colors)
                print(c)
                time.sleep(s)
-
+print("Bhrama")
 
