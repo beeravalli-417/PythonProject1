@@ -26,4 +26,5 @@ while True:
                print(c)
                time.sleep(s)
 print("Bhrama")
+print("Chinna")
 
